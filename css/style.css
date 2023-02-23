@@ -14,12 +14,3 @@
   input[type="search"] {
     width: 200px;
   }
-  body{
-    position: relative;
-    min-height: 100vh;
-  }
-  footer{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-  }
